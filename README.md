@@ -6,7 +6,9 @@
 [ได้มาจากครู Zak](https://defcon.org/)<br>
 [ความรู้พื้นฐานด้านวิศวกรรมสังคม ส่วนที่ 1: Hacker Tactics](https://www.semanticscholar.org/paper/Social-Engineering-Fundamentals%2C-Part-I%3A-Hacker-Granger/3b26582d9ffe48ce2f6a3790badb50f6939501c7)<br>
 [SocialEngineerOrg](https://www.youtube.com/c/SocialEngineerOrg/videos)<br>
-[]()<br>
+
+### KenCafe เรียน Hack ของคนไทย
+[[VST#6] OWASP ZAP Vulnerability Scanner](https://www.youtube.com/watch?v=jtUhPcoi0Nw)<br>
 []()<br>
 []()<br>
 []()<br>
